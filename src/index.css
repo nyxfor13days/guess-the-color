@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-onBackground;
+  }
+}
+
+@layer components {
+  button {
+    @apply px-6 py-2 h-12 bg-surface text-onSurface rounded-2xl w-fit;
+  }
+}
