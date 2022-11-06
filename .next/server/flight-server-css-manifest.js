@@ -1,1 +1,1 @@
-self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/nyxfor13days/code/next/guess-the-color/app/page":[]}}
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/nyxfor13days/code/next/guess-the-color/app/page":["/home/nyxfor13days/code/next/guess-the-color/styles/globals.css"]},"/home/nyxfor13days/code/next/guess-the-color/app/layout.tsx":["/home/nyxfor13days/code/next/guess-the-color/styles/globals.css"]}
